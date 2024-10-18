@@ -4,18 +4,24 @@
 Snehal-A-S/Snehal-A-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 ### Hi there! 👋 I'm Snehal Suryavanshi  
 I'm a passionate Full Stack Developer currently pursuing my Bachelor's of Engineering at Jain College of Engineering, Belgaum (2022-2026).  
-I enjoy building **web applications**, working on **AI/ML projects**, and diving into **Data Structures and Algorithms**!
+I enjoy building **web applications**, working on **AI/ML projects**! 
 
----
 
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG0yMnpycmxwMnowMTIxbTh3aWluYnNpb3JmZGpnamhweDVvbjI1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Coding GIF">
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif" width="1920">
 </p>
 
----
+
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZ1eDBmMjBuNnNpbHRxdTdjdDE4NzB2ZzByYWhjMnNtNXpsOHhxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="500" alt="Coding GIF">
+</p>
+
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif" width="1920">
+</p>
 
 #### 👩‍💻 A bit about me:
 - 🔭 I’m currently working on **full-stack projects** and exploring **AI/ML** technologies.
@@ -24,7 +30,9 @@ I enjoy building **web applications**, working on **AI/ML projects**, and diving
 - 💬 Ask me about **JavaScript, Node.js, React, or anything related to full-stack development!**
 - ⚡ Fun fact: I love spending time in nature, especially visiting farms. Being outdoors helps me recharge and find inspiration.
 
----
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif" width="1920">
+</p>
 
 ### 🛠️ Languages and Tools:
 <p align="center">
@@ -43,7 +51,9 @@ I enjoy building **web applications**, working on **AI/ML projects**, and diving
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
----
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif" width="1920">
+</p>
 
 
 
@@ -57,7 +67,9 @@ I enjoy building **web applications**, working on **AI/ML projects**, and diving
 </p>
 
 
----
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif" width="1920">
+</p>
 
 ### 🔗 Connect with me:
 <p align="center">
@@ -72,13 +84,17 @@ I enjoy building **web applications**, working on **AI/ML projects**, and diving
   </a>
 </p>
 
----
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif" width="1920">
+</p>
 
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Jrc3R2NXUxeHhjeXhoM2g0azhoMm45d2J5OWd6eHQ3N3o4NjNuNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width="300" alt="Working GIF">
 </p>
 
----
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif" width="1920">
+</p>
 
 #### 🌱 Interests:
 - Full Stack Development
