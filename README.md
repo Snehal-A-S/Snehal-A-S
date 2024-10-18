@@ -4,14 +4,14 @@
 Snehal-A-S/Snehal-A-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### Hi there! 👋 I'm Snehal Suryavanshi  
+ 
+<h1 align="center"> Hi there! 👋 I'm Snehal Suryavanshi</h1>
+
 I'm a passionate Full Stack Developer currently pursuing my Bachelor's of Engineering at Jain College of Engineering, Belgaum (2022-2026).  
 I enjoy building **web applications**, working on **AI/ML projects**! 
 
 
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif" width="1920">
-</p>
+
 
 
 <p align="center">
